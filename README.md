@@ -1,9 +1,9 @@
-# Unes - Universidade 
+# TecBlog - O seu blog de tecnologia 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/evandrolucas60) 
 
 # Sobre o projeto
 
-É um projeto que visa utilizar conceitos básicos de html para criar uma página web. O projeto consiste na criação de uma homepage de uma universidade fictícia chamada UNES.
+É um projeto que visa utilizar conceitos básicos de html e css para criar uma página web. O projeto consiste na criação de uma homepage de um site de tecnologia chamado TecBlog.
 
 ## Layout web
 ![Mobile 1](https://github.com/evandrolucas60/Tec-Blog/blob/main/TecBlog.gif)
@@ -11,7 +11,8 @@
 # Tecnologias utilizadas
 
 ## Front end
-- HTML 
+- HTML5 
+- CSS3
 
 
 # Como executar o projeto
